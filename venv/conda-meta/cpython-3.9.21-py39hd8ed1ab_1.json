@@ -1,0 +1,34 @@
+{
+  "build": "py39hd8ed1ab_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python 3.9.21.*",
+    "python_abi * *_cp39"
+  ],
+  "extracted_package_dir": "C:\\Users\\Dell\\.conda\\pkgs\\cpython-3.9.21-py39hd8ed1ab_1",
+  "files": [],
+  "fn": "cpython-3.9.21-py39hd8ed1ab_1.conda",
+  "license": "Python-2.0",
+  "link": {
+    "source": "C:\\Users\\Dell\\.conda\\pkgs\\cpython-3.9.21-py39hd8ed1ab_1",
+    "type": 1
+  },
+  "md5": "88c825b761db70b42004d12a14f125bf",
+  "name": "cpython",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Dell\\.conda\\pkgs\\cpython-3.9.21-py39hd8ed1ab_1.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "e6550736e44b800cf7cbb5d4570a08b3b96efa02b90dbd499a26a0698d677436",
+  "size": 48066,
+  "subdir": "noarch",
+  "timestamp": 1733406274000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/cpython-3.9.21-py39hd8ed1ab_1.conda",
+  "version": "3.9.21"
+}

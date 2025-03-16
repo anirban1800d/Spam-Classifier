@@ -1,0 +1,120 @@
+/* Main body styling */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Container styling */
+.container {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    flex: 1;
+}
+
+/* Header styling */
+.header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 40px 0;
+    margin-bottom: 30px;
+}
+
+/* Form section styling */
+.form {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 15px;
+    margin: 30px auto;
+}
+
+.form textarea {
+    min-height: 150px;
+    resize: vertical;
+}
+
+.form .btn {
+    min-width: 120px;
+}
+
+/* Result alert styling */
+.alert {
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.alert-danger {
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+    color: #721c24;
+}
+
+.alert-success {
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+    color: #155724;
+}
+
+/* Features section styling */
+.features {
+    background-color: #fff;
+    padding: 40px 20px;
+    margin: 30px auto;
+}
+
+.features .feature {
+    margin-bottom: 40px;
+    padding: 20px;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+.features .feature:hover {
+    transform: translateY(-5px);
+}
+
+.features .feature i {
+    color: #007bff;
+    margin-bottom: 15px;
+}
+
+.features h3 {
+    color: #007bff;
+    margin-bottom: 15px;
+}
+
+.features p {
+    color: #666;
+    line-height: 1.6;
+}
+
+/* Footer styling */
+.footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: auto;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .header {
+        padding: 30px 0;
+    }
+    
+    .form {
+        padding: 20px;
+    }
+    
+    .features {
+        padding: 30px 15px;
+    }
+}

@@ -1,0 +1,31 @@
+{
+  "build": "h7142326_24",
+  "build_number": 24,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "vc14_runtime >=14.42.34438"
+  ],
+  "extracted_package_dir": "C:\\Users\\Dell\\.conda\\pkgs\\vs2015_runtime-14.42.34438-h7142326_24",
+  "files": [],
+  "fn": "vs2015_runtime-14.42.34438-h7142326_24.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Dell\\.conda\\pkgs\\vs2015_runtime-14.42.34438-h7142326_24",
+    "type": 1
+  },
+  "md5": "1dd2e838eb13190ae1f1e2760c036fdc",
+  "name": "vs2015_runtime",
+  "package_tarball_full_path": "C:\\Users\\Dell\\.conda\\pkgs\\vs2015_runtime-14.42.34438-h7142326_24.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "a7104d3d605d191c8ee8d85d4175df3630d61830583494a5d1e62cd9f1260420",
+  "size": 17474,
+  "subdir": "win-64",
+  "timestamp": 1741043406000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/vs2015_runtime-14.42.34438-h7142326_24.conda",
+  "version": "14.42.34438"
+}
