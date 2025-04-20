@@ -1,5 +1,6 @@
 # 📩 SMS Spam Classifier
 
+🔗 **Live Demo:** [Click Here to Try the App](https://spam-classifier-gor9.onrender.com)
 An intelligent web application that classifies SMS messages as **Spam** or **Not Spam** using advanced machine learning algorithms.
 
 ## 🌟 Features
@@ -40,3 +41,5 @@ sms-spam-classifier/
 ├── app.py               # Main Flask application
 ├── README.md
 └── requirements.txt     # Python dependencies
+
+
